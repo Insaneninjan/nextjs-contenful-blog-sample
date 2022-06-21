@@ -28,8 +28,6 @@ npm install
 
 # Author
 
-Satoru Akiyama(https://satoruakiyama.com)
-
 # License
 
 "Blog example with Next.js and Contentful" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
